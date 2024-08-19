@@ -51,7 +51,7 @@ To get started with Gericht, follow these steps:
 To start the development server and view the project in your browser, run:
 
 ```bash
-npm start
+npm run dev
 ```
 
 This will open the landing page in your default browser at `http://localhost:3000`.
@@ -62,14 +62,6 @@ This will open the landing page in your default browser at `http://localhost:300
 - **CSS Modules:** For styling React components using the BEM methodology.
 - **BEM (Block, Element, Modifier):** A naming convention for classes in HTML and CSS.
 - **HTML5:** The standard markup language for creating web pages.
-
-## Screenshots
-
-Here's a sneak peek at the Gericht landing page:
-
-![Home Page](assets/home-page.png)
-
-![Menu Section](assets/menu-section.png)
 
 ## Contributing
 
